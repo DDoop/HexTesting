@@ -1,0 +1,6 @@
+F:\MyGits\godot-gdhexgrid\.mono\temp\bin\Tools\HexGrid.dll
+F:\MyGits\godot-gdhexgrid\.mono\temp\bin\Tools\HexGrid.pdb
+F:\MyGits\godot-gdhexgrid\.mono\temp\obj\Tools\HexGrid.csprojAssemblyReference.cache
+F:\MyGits\godot-gdhexgrid\.mono\temp\obj\Tools\HexGrid.csproj.CoreCompileInputs.cache
+F:\MyGits\godot-gdhexgrid\.mono\temp\obj\Tools\HexGrid.dll
+F:\MyGits\godot-gdhexgrid\.mono\temp\obj\Tools\HexGrid.pdb
